@@ -3,4 +3,4 @@ Web Scraping İle çekilen verileri kullanarak oluşturduğum Regresyon Projesi.
 
 Scraping ile veri nasıl çekiğimle alakalı olarak <a href="https://gist.github.com/aybukemeydan/76648a075fda70e76e163a17b563467b">gistime</a> göz atabilirsiniz.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aybukemeydan&hide=stars,commits,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
